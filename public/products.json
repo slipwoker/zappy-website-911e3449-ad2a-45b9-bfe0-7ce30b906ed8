@@ -1,8 +1,127 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-14T09:54:44.748Z",
+  "generated_at": "2026-07-14T10:36:46.731Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 4,
+  "products": [
+    {
+      "id": "c5454e15-c907-4770-8095-099fced177ad",
+      "slug": "black-beads-necklace-ywsne1",
+      "name": "black beads necklace",
+      "name_translations": {
+        "en": "black beads necklace",
+        "he": "שרשרת חרוזים שחורה"
+      },
+      "description": "A mala is used for yoga practice or as part of your bohemian style.\n\nThey can be worn by anyone who wants a more mindful, peaceful life.\nYou can wear this mala as a bracelet or as a necklace.\nA mala has many names and is also referred to as yoga beads, meditation beads, prayer beads, mala necklace, japa mala, yoga necklace, yoga jewelry. 108 mala beads, Buddhist Jewelry, Meditation Prayer Beads, yoga gift\tBuddhist gift\tbrown long mala\tbead Black necklace\tgift for Meditator\n\nSize:\nNecklace size 18\" 42cm\nomm pendant: 1\" X 1 \"",
+      "short_description": "A mala is used for yoga practice or as part of your bohemian style. They can be worn by anyone who wants a more mindful, peaceful life. You can wear this mala as a bracelet or as a necklace. A mala ha",
+      "sku": null,
+      "brand": null,
+      "price": 271,
+      "base_price": 271,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1784025344110-aauagc.webp",
+        "https://example.com/assets/product-1784025346171-gwwhsr.webp",
+        "https://example.com/assets/product-1784025347554-873sc.webp",
+        "https://example.com/assets/product-1784025348971-2c229.webp",
+        "https://example.com/assets/product-1784025350155-xv3uva.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/black-beads-necklace-ywsne1",
+      "categories": [
+        "Yogi Gifts"
+      ],
+      "updated_at": "2026-07-14T10:36:03.192Z"
+    },
+    {
+      "id": "362b5fc0-aead-4daf-95c8-e0e88eca235d",
+      "slug": "white-beads-om-necklace-0ddlzj",
+      "name": "White beads om necklace",
+      "name_translations": {
+        "en": "White beads om necklace",
+        "he": "שרשרת מאלה לבנה עם תליון אום"
+      },
+      "description": "A mala is used for yoga practice or as part of your bohemian style.\n\nThey can be worn by anyone who wants a more mindful, peaceful life.\nYou can wear this mala as a bracelet or as a necklace.\nA mala has many names and is also referred to as yoga beads, meditation beads, prayer beads, mala necklace, japa mala, yoga necklace, yoga jewelry. 108 mala beads, Buddhist Jewelry, Meditation Prayer Beads, yoga gift\tBuddhist gift\twhite long mala\tbead white necklace\tgift for Meditator\n\nSize:\nNecklace size 18\" 42cm\nomm pendant: 1\" X 1 \"",
+      "short_description": "A mala is used for yoga practice or as part of your bohemian style. They can be worn by anyone who wants a more mindful, peaceful life. You can wear this mala as a bracelet or as a necklace. A mala ha",
+      "sku": null,
+      "brand": null,
+      "price": 213.16,
+      "base_price": 213.16,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1784025344045-mvv3c.webp",
+        "https://example.com/assets/product-1784025344924-xud71n.webp",
+        "https://example.com/assets/product-1784025346518-o8dnfe.webp",
+        "https://example.com/assets/product-1784025348140-i1jafh.webp",
+        "https://example.com/assets/product-1784025348907-grsizj.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/white-beads-om-necklace-0ddlzj",
+      "categories": [
+        "Yoga necklaces"
+      ],
+      "updated_at": "2026-07-14T10:36:04.910Z"
+    },
+    {
+      "id": "92a87aaf-2bc1-4bc4-a88b-a206a54139d8",
+      "slug": "blue-ceramic-fruit-bowl-pottery-serving-bowl-llxadq",
+      "name": "Blue Ceramic Fruit Bowl: Pottery Serving Bowl",
+      "name_translations": {
+        "en": "Blue Ceramic Fruit Bowl: Pottery Serving Bowl",
+        "he": "קערת פירות קרמיקה כחולה: קערת הגשה מקרמיקה"
+      },
+      "description": "Nice ceramic bowl",
+      "short_description": "Nice ceramic bowl",
+      "sku": null,
+      "brand": null,
+      "price": 335.52,
+      "base_price": 335.52,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1784025344044-rmm9e.webp",
+        "https://example.com/assets/product-1784025346313-bjv0of.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/blue-ceramic-fruit-bowl-pottery-serving-bowl-llxadq",
+      "categories": [
+        "Ceramic bowls"
+      ],
+      "updated_at": "2026-07-14T10:35:55.788Z"
+    },
+    {
+      "id": "c745c507-0f46-4b44-aa7a-c119e675315a",
+      "slug": "minimalist-handcrafted-ceramic-plate-for-elegant-dining-9jilml",
+      "name": "Minimalist Handcrafted Ceramic Plate for Elegant Dining",
+      "name_translations": {
+        "en": "Minimalist Handcrafted Ceramic Plate for Elegant Dining",
+        "he": "צלחת קרמיקה מינימליסטית עבודת יד לשולחן אלגנטי"
+      },
+      "description": "Nice ceramic bowl",
+      "short_description": "Nice ceramic bowl",
+      "sku": null,
+      "brand": null,
+      "price": 299.58,
+      "base_price": 299.58,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1784025344054-14190w.webp",
+        "https://example.com/assets/product-1784025346233-367lk.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/minimalist-handcrafted-ceramic-plate-for-elegant-dining-9jilml",
+      "categories": [
+        "Ceramic bowls"
+      ],
+      "updated_at": "2026-07-14T10:35:55.012Z"
+    }
+  ]
 }

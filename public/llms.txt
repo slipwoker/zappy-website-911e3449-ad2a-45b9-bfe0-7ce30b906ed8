@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://example.com
+https://liran-hatotach.zappy5.app
 גלו מותג תכשיטים בעבודת יד עם אופי בועט ויצירתיות ללא פשרות. כל פריט הוא יצירת אמנות ייחודית שמחכה לכם. כנסו עכשיו והתאהבו!
 
 ### אודות
-https://example.com/about
+https://liran-hatotach.zappy5.app/about
 הכירו את האומן שמאחורי המותג. מלאכת יד, תשוקה וחוצפה ישראלית נפגשים בכל תכשיט. בואו לגלות את הנשמה של לירן התותח.
 
 ### גלריה
-https://example.com/gallery
+https://liran-hatotach.zappy5.app/gallery
 דפדפו בגלריה של תכשיטים בעבודת יד שמקרינים עוצמה ומקוריות. מחפשים השראה או את הפריט הבא שלכן? כל התשובות מחכות פה.
 
 ### צור קשר
-https://example.com/contact
+https://liran-hatotach.zappy5.app/contact
 יש לכם רעיון משוגע לתכשיט או סתם בא לכם להגיד שלום? אנחנו אוהבים אתגרים. השאירו פרטים ונתפור לכם חלום בעבודת יד.
 
 ### Products
-https://example.com/products
+https://liran-hatotach.zappy5.app/products
 המוצרים שלנו - לירן התותח
 
 ### Cart
-https://example.com/cart
+https://liran-hatotach.zappy5.app/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://example.com/checkout
+https://liran-hatotach.zappy5.app/checkout
 תשלום
 
 ### Login
-https://example.com/login
+https://liran-hatotach.zappy5.app/login
 התחברות לקוחות
 
 ### Account
-https://example.com/account
+https://liran-hatotach.zappy5.app/account
 החשבון שלי
 
 ### Order Success
-https://example.com/order-success
+https://liran-hatotach.zappy5.app/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://example.com/product/:slug
+https://liran-hatotach.zappy5.app/product/:slug
 פרטי המוצר - לירן התותח
 
 ### Category
-https://example.com/category/:slug
+https://liran-hatotach.zappy5.app/category/:slug
 מוצרים - לירן התותח
 
 ### תודה רבה | לירן התותח
-https://example.com/thank-you
+https://liran-hatotach.zappy5.app/thank-you
 תודה שפנית אלינו. קיבלנו את פנייתך ונחזור אליך בהקדם האפשרי.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://liran-hatotach.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://liran-hatotach.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://liran-hatotach.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -79,36 +79,36 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 4**
 
 ### black beads necklace
-https://example.com/product/black-beads-necklace-ywsne1
+https://liran-hatotach.zappy5.app/product/black-beads-necklace-ywsne1
 - Price: 271.00 ILS
 - Availability: In stock
 - Category: Yogi Gifts
 - Description: A mala is used for yoga practice or as part of your bohemian style. They can be worn by anyone who wants a more mindful, peaceful life. You can wear this mala as a bracelet or as a necklace. A mala ha
-- Image: https://example.com/assets/product-1784025344110-aauagc.webp
+- Image: https://liran-hatotach.zappy5.app/assets/product-1784025344110-aauagc.webp
 
 ### White beads om necklace
-https://example.com/product/white-beads-om-necklace-0ddlzj
+https://liran-hatotach.zappy5.app/product/white-beads-om-necklace-0ddlzj
 - Price: 213.16 ILS
 - Availability: In stock
 - Category: Yoga necklaces
 - Description: A mala is used for yoga practice or as part of your bohemian style. They can be worn by anyone who wants a more mindful, peaceful life. You can wear this mala as a bracelet or as a necklace. A mala ha
-- Image: https://example.com/assets/product-1784025344045-mvv3c.webp
+- Image: https://liran-hatotach.zappy5.app/assets/product-1784025344045-mvv3c.webp
 
 ### Blue Ceramic Fruit Bowl: Pottery Serving Bowl
-https://example.com/product/blue-ceramic-fruit-bowl-pottery-serving-bowl-llxadq
+https://liran-hatotach.zappy5.app/product/blue-ceramic-fruit-bowl-pottery-serving-bowl-llxadq
 - Price: 335.52 ILS
 - Availability: In stock
 - Category: Ceramic bowls
 - Description: Nice ceramic bowl
-- Image: https://example.com/assets/product-1784025344044-rmm9e.webp
+- Image: https://liran-hatotach.zappy5.app/assets/product-1784025344044-rmm9e.webp
 
 ### Minimalist Handcrafted Ceramic Plate for Elegant Dining
-https://example.com/product/minimalist-handcrafted-ceramic-plate-for-elegant-dining-9jilml
+https://liran-hatotach.zappy5.app/product/minimalist-handcrafted-ceramic-plate-for-elegant-dining-9jilml
 - Price: 299.58 ILS
 - Availability: In stock
 - Category: Ceramic bowls
 - Description: Nice ceramic bowl
-- Image: https://example.com/assets/product-1784025344054-14190w.webp
+- Image: https://liran-hatotach.zappy5.app/assets/product-1784025344054-14190w.webp
 
 ---
 
@@ -132,8 +132,8 @@ Handmade Jewelry
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
-- Products (JSON): https://example.com/products.json
-- Products (Google Merchant RSS): https://example.com/product-feed.xml
+- Sitemap (XML): https://liran-hatotach.zappy5.app/sitemap.xml
+- Robots: https://liran-hatotach.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://liran-hatotach.zappy5.app/llms-full.txt
+- Products (JSON): https://liran-hatotach.zappy5.app/products.json
+- Products (Google Merchant RSS): https://liran-hatotach.zappy5.app/product-feed.xml
